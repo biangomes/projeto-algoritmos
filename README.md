@@ -12,4 +12,4 @@ Repositório criado com o intuito de registrar as minhas anotações e estudos d
 
 **Introdução**
 
-1. [Tipo abstrato de dados]()
+1. [Tipo abstrato de dados](https://github.com/biangomes/projeto-algoritmos/blob/main/1%20-%20introducao/1.1-Introducao.md)
